@@ -1,0 +1,1 @@
+wrrker: python min.py
